@@ -1,8 +1,7 @@
-Hey there this is Tni!!  
+Hey there this is Tianai!!  
 Enthusiastic about learning everything XD  
 Idea implementation loading bar: (some/too many)  
-Average Canadian highschooler  
-Love math, robotics, photography, psychology and getting back to coding again XD ~  
+Love math, robotics, photography, psychology and trying out UI ~  
 ======= Currently under construction as I'm trying to figure out GitHub ;)=======
 
 <!---
