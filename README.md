@@ -1,7 +1,7 @@
 Hey there this is Tianai!!  
 Enthusiastic about learning everything XD  
 Idea implementation loading bar: (some/too many)  
-Love math, robotics, photography, psychology and trying out UI ~  
+Love math, robotics, photography, psychology and trying out front end stuff~  
 ======= Currently under construction as I'm trying to figure out GitHub ;)=======
 
 <!---
